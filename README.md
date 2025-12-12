@@ -32,7 +32,7 @@
     <img width="523" height="356" alt="image" src="https://github.com/user-attachments/assets/9fbac5ce-8fb1-4faa-ba25-5639ded3cb82" />
 
 6) Suppose this code :
-<img width="564" height="214" alt="image" src="https://github.com/user-attachments/assets/3411d9c0-ab3f-4a34-9c62-a141ce87d32e" />
+<img width="535" height="209" alt="image" src="https://github.com/user-attachments/assets/b4cf4550-35c8-4f7c-8797-8582d6ab8669" />
 
   * How we can improve this ?
     <img width="564" height="214" alt="image" src="https://github.com/user-attachments/assets/2d25178d-1e83-49de-9c8a-111ba77de2bc" />
