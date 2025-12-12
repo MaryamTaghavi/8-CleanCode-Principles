@@ -1,4 +1,4 @@
-# 10-CleanCode-Principles
+# 8-CleanCode-Principles
 
 1) Suppose we have a method like this :
 <img width="476" height="340" alt="image" src="https://github.com/user-attachments/assets/6b4f143e-76d7-4c0f-b4c6-e0baa094e6f5" />
@@ -48,12 +48,6 @@
 
   * How we can improve this ?
     <img width="358" height="167" alt="image" src="https://github.com/user-attachments/assets/de0c4ec6-7068-4431-8727-0c239e0dc14b" />
-
-9) Suppose this code :
-<img width="654" height="209" alt="image" src="https://github.com/user-attachments/assets/3177dc68-5493-4e0b-b80f-83994b733707" />
-
-  * How we can improve this ?
-    <img width="610" height="452" alt="image" src="https://github.com/user-attachments/assets/e8dd764a-de3f-46f4-b75a-4d2f7d2ff139" />
 
 
 
