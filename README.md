@@ -53,7 +53,7 @@
 <img width="654" height="209" alt="image" src="https://github.com/user-attachments/assets/3177dc68-5493-4e0b-b80f-83994b733707" />
 
   * How we can improve this ?
-    <img width="654" height="209" alt="image" src="https://github.com/user-attachments/assets/8ebeef2a-a4c2-4593-a89d-d00f7902e1d4" />
+    <img width="610" height="452" alt="image" src="https://github.com/user-attachments/assets/e8dd764a-de3f-46f4-b75a-4d2f7d2ff139" />
 
 
 
