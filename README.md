@@ -46,6 +46,15 @@
 8) Suppose this code :
 <img width="441" height="171" alt="image" src="https://github.com/user-attachments/assets/a22cc02c-787b-421c-a5ed-42a63713d6f7" />
 
+  * How we can improve this ?
+    <img width="358" height="167" alt="image" src="https://github.com/user-attachments/assets/de0c4ec6-7068-4431-8727-0c239e0dc14b" />
+
+9) Suppose this code :
+<img width="654" height="209" alt="image" src="https://github.com/user-attachments/assets/3177dc68-5493-4e0b-b80f-83994b733707" />
+
+  * How we can improve this ?
+    <img width="654" height="209" alt="image" src="https://github.com/user-attachments/assets/8ebeef2a-a4c2-4593-a89d-d00f7902e1d4" />
+
 
 
 
